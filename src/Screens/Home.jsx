@@ -1,7 +1,7 @@
 import React from "react"
 import Navbar from "../Components/Navbar";
 import ProductGrid from "../Components/ProductGrid";
-import Carausel from "../Components/carausel";
+import Carausel from "../Components/Carausel";
 
 
 const Home=()=>{
